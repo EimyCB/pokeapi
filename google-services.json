@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438891345973",
+    "project_id": "pokedex-elaniin-ae77e",
+    "storage_bucket": "pokedex-elaniin-ae77e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438891345973:android:a87a14075ebaa3c298997c",
+        "android_client_info": {
+          "package_name": "com.elaniinassessment.pokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438891345973-qfakg2g9vpgr03ftdhqs69b59onsnjkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfuUvrj-6Jmn_JHcxF8Y4AqUvsSWACbIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438891345973-qfakg2g9vpgr03ftdhqs69b59onsnjkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
